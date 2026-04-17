@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "TMGT Prototype",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-p", "8081", "/Users/b/Desktop/BB/BUBU Prortype"],
+      "port": 8081
+    }
+  ]
+}

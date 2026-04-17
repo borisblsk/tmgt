@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Figma__get_metadata",
+      "Bash(python3)",
+      "mcp__Figma__get_design_context",
+      "mcp__Figma__get_screenshot",
+      "Bash(python3 -m http.server 8080)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8080/)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s \"http://localhost:3845/assets/9e5eeded26ee20c1eb38dffe2081e2e0d15bf06a.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/d912e3ecadfb1c49dc0f7f8c0bc9de90c78aec7a.svg\")",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(curl -s \"http://localhost:3845/\")",
+      "Bash(curl -sv \"http://localhost:3845/assets/9e5eeded26ee20c1eb38dffe2081e2e0d15bf06a.svg\")",
+      "Bash(curl -s \"http://localhost:3845/export?nodeId=3059:2278&format=svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/a0bf3e6dab49327d4f27bced7761ff874f82debd.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/9980af9df28ce93dbf091903f5d9da3ac1fbecb9.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/a61d3a2616194a89b419125a8643ea62088838a6.svg\")",
+      "Bash(npx --version)",
+      "Read(//usr/local/bin/**)",
+      "Read(//Users/b/.pyenv/**)",
+      "Bash(curl -sI \"http://localhost:3845/assets/9899c3bf98e890fbe2ade983cfb3a0141a61acc8.png\")",
+      "Bash(curl -sI \"http://localhost:3845/assets/00ddb57ea4313e0a82d4073918f2fe0de4606ef7.png\")",
+      "Bash(curl -s \"http://localhost:3845/assets/463cf3c843221ded429b5370c86a2ed28d730379.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/6efa349ce5f16c60d1b74998c602eef280872f9d.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/fa8bbb5fd321d906bba6570c44f3eb4719561ff4.svg\")",
+      "Bash(curl -s http://localhost:3845/assets/__TRACKED_VAR__.svg)",
+      "Bash(curl -s \"http://localhost:3845/assets/7591c3f1f523563427812a1be37086dce6d820c0.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/5495b73c209cdaf69385d64a6b38549146695d5d.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/b7f9ac2557c34089f23667db8311206cae9eb89e.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/a4325210b89be001d496cc7ccf66f597f7a8313e.svg\")",
+      "Bash(python3 -c ':*)",
+      "Bash(curl -s \"http://localhost:3845/assets/f2f258e58d8e74a1ee402e53b9a75c63f7190338.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/c160d6090f0c063638c0dd2e9d4816bdaf33ab1b.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/1a9c3370b3b5505255ced0046f5280597fc791a9.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/f342e59753e30fdac11aed1c5534ff1463c47289.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/ad4bcdf7e351e8740c2bbaa158e7a0de12db6830.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/42824c3f27457683e0ef0116c86a2fd62a119d7e.svg\")",
+      "Bash(curl -s \"http://localhost:3845/assets/4d13c1edc78ae4209f95d2d7dac0d679d659b3ad.svg\")"
+    ]
+  }
+}
