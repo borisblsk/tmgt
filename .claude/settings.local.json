@@ -37,7 +37,10 @@
       "Bash(curl -s \"http://localhost:3845/assets/f342e59753e30fdac11aed1c5534ff1463c47289.svg\")",
       "Bash(curl -s \"http://localhost:3845/assets/ad4bcdf7e351e8740c2bbaa158e7a0de12db6830.svg\")",
       "Bash(curl -s \"http://localhost:3845/assets/42824c3f27457683e0ef0116c86a2fd62a119d7e.svg\")",
-      "Bash(curl -s \"http://localhost:3845/assets/4d13c1edc78ae4209f95d2d7dac0d679d659b3ad.svg\")"
+      "Bash(curl -s \"http://localhost:3845/assets/4d13c1edc78ae4209f95d2d7dac0d679d659b3ad.svg\")",
+      "Bash(curl -s -o \"/Users/b/Desktop/BB/BUBU Prortype/texture-landscape.png\" \"http://localhost:3845/assets/00ddb57ea4313e0a82d4073918f2fe0de4606ef7.png\")",
+      "Bash(curl -s -o \"/Users/b/Desktop/BB/BUBU Prortype/texture-stripes.png\" \"http://localhost:3845/assets/a36eddb9494db0605c4c494b52938aa6ba5c5b41.png\")",
+      "Bash(ls -lh \"/Users/b/Desktop/BB/BUBU Prortype/\"*.png)"
     ]
   }
 }
